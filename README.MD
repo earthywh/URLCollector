@@ -16,3 +16,5 @@ Below Tools are required to be installed in system as pre-requisites.
 
 
 <code>python3 urlscollect.py domains.txt</code>
+
+<b> The Output files are stored in a folder where urlscollect.py is saved. The folder name is the data + time when the tool is run </b>
