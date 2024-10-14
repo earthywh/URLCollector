@@ -13,4 +13,4 @@ Below Tools are required to be installed in system as pre-requisites.
 4. JSLuice
 
 <b>Usage </b>
-  python3 urlcollector.py domains.txt
+<code>python3 urlcollector.py domains.txt</code>
