@@ -15,4 +15,4 @@ Below Tools are required to be installed in system as pre-requisites.
 <b>Usage </b>
 
 
-<code>python3 urlcollector.py domains.txt</code>
+<code>python3 urlscollect.py domains.txt</code>
