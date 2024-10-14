@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/earthywh/URLCollector/refs/heads/main/37660b5a-db22-47ec-94aa-3680324ebb7b.jpg" alt="URLCollector" width="200px">
   <br>
 </h1>
-\
+
 URL collectors collects URLS using GAU and Katana for a list of domains and stores them in a folder for further analysis for Bug Bounty Hunters and Security testers. It also collects all JS files and stores them in folder. \
 It also runs jsluice on collected JS files and outputs secrets. \
 
