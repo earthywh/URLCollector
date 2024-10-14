@@ -12,5 +12,5 @@ Below Tools are required to be installed in system as pre-requisites.
 3. Subfinder
 4. JSLuice
 
-<b>Usage </b>
+<b>Usage </b> \n
 <code>python3 urlcollector.py domains.txt</code>
