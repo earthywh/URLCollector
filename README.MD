@@ -11,3 +11,6 @@ Below Tools are required to be installed in system as pre-requisites.
 2. GAU
 3. Subfinder
 4. JSLuice
+
+**Usage **
+python3 urlcollector.py domains.txt
