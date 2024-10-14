@@ -1,4 +1,4 @@
-![Alt text](logo.jpg)
+![Alt text](icon.jpg)
 URL collectors collects URLS using GAU and Katana for a list of domains and stores them in a folder for further analysis for Bug Bounty Hunters and Security testers. It also collects all JS files and stores them in folder. 
 It also runs jsluice on collected JS files and outputs secrets.
 
