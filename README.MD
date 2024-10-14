@@ -1,6 +1,6 @@
-
+----
 ![img_4286a-350x233](https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg
-
+----
 URL collectors collects URLS using GAU and Katana for a list of domains and stores them in a folder for further analysis for Bug Bounty Hunters and Security testers. It also collects all JS files and stores them in folder. 
 It also runs jsluice on collected JS files and outputs secrets.
 
